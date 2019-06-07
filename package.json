@@ -1,0 +1,19 @@
+{
+  "name": "clase14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quique37/clase14.git"
+  },
+  "author": "Enrique <enrique.jmz37@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quique37/clase14/issues"
+  },
+  "homepage": "https://github.com/quique37/clase14#readme"
+}
